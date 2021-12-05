@@ -9,5 +9,5 @@ public class VogellaSpringbootPracticeApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(VogellaSpringbootPracticeApplication.class, args);
 	}
-       //todo
+
 }
